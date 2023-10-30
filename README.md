@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle! <br/><a href="https://www.linkedin.com/in/kyleberube/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Kyle! <br/><a href="https://www.linkedin.com/in/kyle-berube-7573a3273/"> Cybersecurity Analyst</a>
 <h2>🖥️ Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab (Bulk User Creation)](https://github.com/kylenberube/LABURL)
@@ -15,4 +15,4 @@
 
 [twitter]: https://twitter.com/KyleBerube
 [youtube]: https://www.youtube.com/c/KyleBerube
-[linkedin]: https://linkedin.com/in/KyleBerube
+[linkedin]:https://www.linkedin.com/in/kyle-berube-7573a3273
