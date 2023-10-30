@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Self-Taught Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>
+<h1>Hi, I'm Kyle! <br/><a href="https://www.linkedin.com/in/kyleberube/">Cybersecurity Analyst</a>
 <h2>🖥️ Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab (Bulk User Creation)](https://github.com/kylenberube/LABURL)
