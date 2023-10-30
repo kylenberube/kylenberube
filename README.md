@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Self-Taught Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>
+<h2>🖥️ Cybersecurity Projects:</h2>
 
-<!--
-**kylenberube/kylenberube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Active Directory Home Lab (Bulk User Creation)](https://github.com/kylenberube/LABURL)
+- [Building a SOC + Honeynet in Azure)](https://github.com/kylenberube/LABURL)
+- [FIM (File Integrity Monitor)](https://github.com/jkylenberube/LABURL)
+- [WireShark Traffic Analysis](https://github.com/kylenberube/LABURL)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="KyleBerube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="KyleBerube | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="KyleBerube | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/KyleBerube
+[youtube]: https://www.youtube.com/c/KyleBerube
+[linkedin]: https://linkedin.com/in/KyleBerube
