@@ -3,8 +3,8 @@
 
 - [Active Directory Home Lab (Bulk User Creation)](https://github.com/kylenberube/AD-PS-Lab)
 - [Building a SOC + Honeynet in Azure)](https://github.com/kylenberube/LABURL)
-- [FIM (File Integrity Monitor)](https://github.com/jkylenberube/LABURL)
-- [Malware Analysis Lab](https://github.com/kylenberube/LABURL)
+- [Python Password Generator](https://github.com/kylenberube/PasswordGeneratorPy)
+- [WannaCry Malware Analysis Lab](https://github.com/kylenberube/LABURL)
 
 
 <h2> 🤳 Connect with me:</h2>
