@@ -2,7 +2,7 @@
 <h2>🖥️ Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab (Bulk User Creation)](https://github.com/kylenberube/AD-PS-Lab)
-- [WannaCry Malware Analysis Lab](https://github.com/kylenberube/LABURL)
+- [WannaCry Malware Analysis Lab](https://github.com/kylenberube/WannaCry-Analysis-Lab)
 - [PowerShell Hash Generator](https://github.com/kylenberube/Hash-Generator-PS)
 - [Python Password Generator](https://github.com/kylenberube/PasswordGeneratorPy)
 
