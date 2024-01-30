@@ -2,10 +2,9 @@
 <h2>🖥️ Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab (Bulk User Creation)](https://github.com/kylenberube/AD-PS-Lab)
-- [Building a SOC + Honeynet in Azure)](https://github.com/kylenberube/LABURL)
-- [Python Password Generator](https://github.com/kylenberube/PasswordGeneratorPy)
 - [WannaCry Malware Analysis Lab](https://github.com/kylenberube/LABURL)
-
+- [PowerShell Hash Generator](https://github.com/kylenberube/Hash-Generator-PS)
+- [Python Password Generator](https://github.com/kylenberube/PasswordGeneratorPy)
 
 <h2> 🤳 Connect with me:</h2>
 
